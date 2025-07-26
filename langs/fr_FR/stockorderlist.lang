@@ -1,0 +1,58 @@
+# Module StockOrderList
+Module500000Name=Liste Stock et Commandes
+Module500000Desc=Module permettant de lister les produits en commande client non livrée avec leur stock et commandes fournisseur
+
+# Menu
+StockOrderListTitle=État Stock - Commande
+SupplyChainMenu=Supply Chain
+
+# Colonnes
+Ref=Référence
+Label=Libellé
+ClientOrderQty=Qté Cde Client
+SupplierOrderQty=Qté Cde Fournisseur
+PhysicalStock=Stock Physique
+ManufacturingOrders=OF
+CalculatedStock=Stock Calculé
+Actions=Actions
+
+# Messages
+NoRecordFound=Aucun enregistrement trouvé
+SearchRef=Rechercher par référence
+Search=Rechercher
+Reset=Réinitialiser
+ErrorLoadingData=Erreur lors du chargement des données
+
+# Configuration
+StockOrderListSetup=Configuration Liste Stock et Commandes
+StockOrderListExample=Paramètre d'exemple
+SetupSaved=Configuration sauvegardée
+
+# Permissions
+Permission500001=Lire les états de stock et commandes
+Permission500002=Configurer le module
+
+# Orders
+CustomerOrder=Commande client
+SupplierOrder=Commande fournisseur
+
+# Summary
+Summary=Résumé
+Products=produits
+Total=Total
+TotalClientOrdered=Total commandé clients
+TotalSupplierOrdered=Total commandé fournisseurs
+TotalPhysicalStock=Total stock physique
+
+# Common
+About=À propos
+ModuleName=Nom du module
+Version=Version
+Publisher=Éditeur
+Website=Site web
+Description=Description
+ShowProduct=Voir le produit
+Parameter=Paramètre
+Value=Valeur
+Save=Enregistrer
+BackToModuleList=Retour à la liste des modules

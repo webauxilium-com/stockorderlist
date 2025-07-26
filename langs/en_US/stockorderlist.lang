@@ -1,0 +1,58 @@
+# Module StockOrderList
+Module500000Name=Stock and Orders List
+Module500000Desc=Module to list products in undelivered customer orders with their stock and supplier orders
+
+# Menu
+StockOrderListTitle=Stock - Order Status
+SupplyChainMenu=Supply Chain
+
+# Columns
+Ref=Reference
+Label=Label
+ClientOrderQty=Customer Order Qty
+SupplierOrderQty=Supplier Order Qty
+PhysicalStock=Physical Stock
+ManufacturingOrders=MO
+CalculatedStock=Calculated Stock
+Actions=Actions
+
+# Messages
+NoRecordFound=No record found
+SearchRef=Search by reference
+Search=Search
+Reset=Reset
+ErrorLoadingData=Error loading data
+
+# Configuration
+StockOrderListSetup=Stock Order List Configuration
+StockOrderListExample=Example parameter
+SetupSaved=Configuration saved
+
+# Permissions
+Permission500001=Read stock and order status
+Permission500002=Configure module
+
+# Orders
+CustomerOrder=Customer order
+SupplierOrder=Supplier order
+
+# Summary
+Summary=Summary
+Products=products
+Total=Total
+TotalClientOrdered=Total customer ordered
+TotalSupplierOrdered=Total supplier ordered
+TotalPhysicalStock=Total physical stock
+
+# Common
+About=About
+ModuleName=Module name
+Version=Version
+Publisher=Publisher
+Website=Website
+Description=Description
+ShowProduct=Show product
+Parameter=Parameter
+Value=Value
+Save=Save
+BackToModuleList=Back to module list
